@@ -1,0 +1,3 @@
+SET PORT=8000
+SET PUBLIC_PATH=public
+SET INDEX_FILE=index.html
